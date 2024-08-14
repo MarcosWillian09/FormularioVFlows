@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card-header {
+  font-weight: bold;
+}
+
+button {
+  margin-top: 10px;
+}
